@@ -10,5 +10,6 @@ package projetogit;
  * @author mathe
  */
 public class NewClass {
+    privat int texte;
     
 }
